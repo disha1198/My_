@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>123007460890-t3vm44u29paq0qkjhar4b8nmlf2a4t90.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.123007460890-t3vm44u29paq0qkjhar4b8nmlf2a4t90</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCHAW7nPljaZUicRi7alK_f2QNN421n97k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>123007460890</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.myApp</string>
+	<key>PROJECT_ID</key>
+	<string>crwn-db-84a39</string>
+	<key>STORAGE_BUCKET</key>
+	<string>crwn-db-84a39.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:123007460890:ios:f8b5c8c57d5eac019e93a3</string>
+	<key>DATABASE_URL</key>
+	<string>https://crwn-db-84a39.firebaseio.com</string>
+</dict>
+</plist>

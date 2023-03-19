@@ -39,6 +39,7 @@ dependencies:
   firebase_auth: ^4.2.9
   cloud_firestore: ^4.4.3
   firebase_analytics: ^10.1.4
+  google_api_availability: ^4.0.0
 
 dev_dependencies:
   flutter_test:
